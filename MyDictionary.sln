@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary.Resource", "MyDictionary.Resource\MyDictionary.Resource.csproj", "{D04859D6-7E2C-47D6-9F51-7AD5EFEB028F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary.Business", "MyDictionary.Business\MyDictionary.Business.csproj", "{1FB51171-3A1B-4E34-8B2E-6F59F2A9487C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
