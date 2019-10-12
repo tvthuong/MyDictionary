@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary.iOS", "MyDicti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary\MyDictionary.csproj", "{BF14AC3C-2BA1-42E2-9164-1A8CE55C99F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary.Resource", "MyDictionary.Resource\MyDictionary.Resource.csproj", "{D04859D6-7E2C-47D6-9F51-7AD5EFEB028F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
